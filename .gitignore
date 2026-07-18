@@ -66,6 +66,18 @@ yarn-error.log
 # testing
 /coverage
 
+# Environment secrets — never commit real credentials
+.env
+.env.*
+!.env.example
+
+# Build outputs
+dist/
+
+# Editors
+.vscode/
+.idea/
+
 # Yarn
 .yarn/*
 !.yarn/patches
