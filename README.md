@@ -126,6 +126,8 @@ npm run android               # Android emulator/device
 
 If you change `.env` afterwards, re-run `npm run ios` / `npm run android`
 (a rebuild) — see the env gotcha above.
+<img width="961" height="463" alt="image" src="https://github.com/user-attachments/assets/b126ddc0-5ed2-47f7-a5b8-14664613e695" />
+<img width="967" height="467" alt="image" src="https://github.com/user-attachments/assets/b878b3f0-c082-4238-b91d-eb814d0f636a" />
 
 ## Test
 
